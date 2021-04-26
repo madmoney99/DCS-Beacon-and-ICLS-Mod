@@ -1,5 +1,5 @@
 # DCS: Caucasus and NTTR beacons mod
-This will add additional VORTAC/TACAN beacons to DCS as well as add ICLS beacons to airports with existing ILS signals so that US Navy aircraft (F-18 & F-14) can do low weather approaches to those airports
+This will add additional VORTAC/TACAN beacons to DCS as well as add ICLS beacons to airports with existing ILS signals so that US Navy aircraft (F-18 & F-14) can do low weather approaches to those airports.
 
 
 ## Installation 
@@ -15,8 +15,9 @@ General info:
 
 **Added beacons Caucasus:**
 - Anapa
-	- VORTAC 59X/111.20
+	- VORTAC 59X/111.20 ANP
 	- ICLS RWY04 Ch.5
+	- ICLS RWY22 Ch.2
 - Batumi
 	- ICLS RWY13 CH.16 
 - Belsan
