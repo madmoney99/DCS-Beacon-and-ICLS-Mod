@@ -6,9 +6,9 @@ This will add additional VORTAC/TACAN beacons to DCS as well as add ICLS beacons
 Place the modified beacons.lua file into their respective folders, overwriting the original file.
 ### Caucasus
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\Caucasus
-Anapa.extra2.cfg.lua goes into:
+###### Anapa.extra2.cfg.lua goes into:
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\Caucasus\\AirfieldsCfgs
-- This is optional file if you want ILS information displayed in mission the under Airdrome Data.
+- This is an optional file if you want ILS/VORTAC information displayed in mission the under Airdrome Data.
 ### NTTR
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\Nevada
 
