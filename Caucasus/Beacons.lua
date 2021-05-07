@@ -59,7 +59,7 @@ beacons = {
 		display_name = _('Anapa-Vityazevo');
 		beaconId = 'airfield12_4'; 
 		type = BEACON_TYPE_VORTAC;
-		callsign = 'ANP';
+		callsign = 'DUDE';
 		frequency = 112200000;
 		channel = 59;
 		position = { -5500.801758, 42.35243, 242748.500000 };
@@ -70,6 +70,54 @@ beacons = {
 	{
 		display_name = _('Anapa-Vityazevo');
 		beaconId = 'airfield12_5'; --rwy 04
+		type = BEACON_TYPE_ILS_LOCALIZER;
+		callsign = 'DDY';
+		frequency = 108500000;
+		position = { -4209, 42.848, 244193 };
+		direction = -138.499789; --add 180 for runway degrees
+		positionGeo = { latitude = 45.014433, longitude = 37.361 };
+		sceneObjects = {'t:168788600'};
+		chartOffsetX = 3055.000000;
+	};
+	{
+		display_name = _('Anapa-Vityazevo');
+		beaconId = 'airfield12_6'; --rwy 04
+		type = BEACON_TYPE_ILS_GLIDESLOPE;
+		callsign = 'DDY';
+		frequency = 108500000;
+		position = { -6314, 42.848, 242337 };
+		direction = -138.499789;
+		positionGeo = { latitude = 44.997239, longitude = 37.337189 };
+		sceneObjects = {'t:319096009'};
+		chartOffsetX = 3055.000000;
+	};
+	{
+		display_name = _('Anapa-Vityazevo');
+		beaconId = 'airfield12_7'; --rwy 22
+		type = BEACON_TYPE_ILS_LOCALIZER;
+		callsign = 'JAK';
+		frequency = 109500000;
+		position = { -6576, 42.848, 242099 };
+		direction = 41.500201; --add 180 for runway degrees
+		positionGeo = { latitude = 44.994997, longitude = 37.334008 };
+		sceneObjects = {'t:168788600'};
+		chartOffsetX = 3005.000000;
+	};
+	{
+		display_name = _('Anapa-Vityazevo');
+		beaconId = 'airfield12_8'; --rwy 22
+		type = BEACON_TYPE_ILS_GLIDESLOPE;
+		callsign = 'JAK';
+		frequency = 109500000;
+		position = { -4520, 42.848, 243712 };
+		direction = 41.500201;
+		positionGeo = { latitude = 45.012656, longitude = 37.356089 };
+		sceneObjects = {'t:319096009'};
+		chartOffsetX = 3005.000000;
+	};
+{
+		display_name = _('Anapa-Vityazevo');
+		beaconId = 'airfield12_9'; --rwy 04
 		type = BEACON_TYPE_ICLS_LOCALIZER;
 		callsign = 'ALU';
 		frequency = 15535000000;
@@ -82,7 +130,7 @@ beacons = {
 	};
 	{
 		display_name = _('Anapa-Vityazevo');
-		beaconId = 'airfield12_6'; --rwy 04
+		beaconId = 'airfield12_10'; --rwy 04
 		type = BEACON_TYPE_ICLS_GLIDESLOPE;
 		callsign = '';
 		frequency = 15535000000;
@@ -95,7 +143,7 @@ beacons = {
 	};
 	{
 		display_name = _('Anapa-Vityazevo');
-		beaconId = 'airfield12_7'; --rwy 22
+		beaconId = 'airfield12_11'; --rwy 22
 		type = BEACON_TYPE_ICLS_LOCALIZER;
 		callsign = 'JAK';
 		frequency = 15445000000;
@@ -108,7 +156,7 @@ beacons = {
 	};
 	{
 		display_name = _('Anapa-Vityazevo');
-		beaconId = 'airfield12_8'; --rwy 22
+		beaconId = 'airfield12_12'; --rwy 22
 		type = BEACON_TYPE_ICLS_GLIDESLOPE;
 		callsign = '';
 		frequency = 15445000000;
