@@ -35,7 +35,7 @@ General info:
 - Kultasi
 	- ICLS RWY08 CH.8 
 - Krasnodar-Center
-	- TACAN 39X KRS
+	- TACAN 94X KRS
 	- ICLS RWY09 CH.17
 - Krymsk
 	- VORTAC 41X/110.40 KRY
