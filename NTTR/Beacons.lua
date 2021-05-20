@@ -10,12 +10,13 @@ local       _ = gettext.translate
 --WORLD BEACONS
 
 --[[
-	NTTR beacon mod v.1.0, updated December 22nd, 2018 by TonyG.
+	NTTR beacon mod v.1.0, updated December 22nd, 2018 by TonyG. Last checked with DCS v2.7.1.6430 (May 20,2021)
 	
 	General info:
 	I have added ICLS beacons for the F/A-18C for all runways that were already equipped with regular ILS  
 	
 	I give a lot of credit to drPhibes for detailing how to do this on the forums.  Thank you!
+	Readme located https://github.com/madmoney99/Caucasus-and-NTTR-ICLS-Mod
 	
 	Added beacons:
 	- Tonopah Test Range

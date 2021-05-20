@@ -9,6 +9,66 @@ local       _ = gettext.translate
 
 --WORLD BEACONS
 
+--[[
+	Caucasus beacon mod v.2.0, updated May 20, 2021 by TonyG. Last checked with DCS v2.7.1.6430 (May 20,2021)
+	
+	General info:
+	I have added ICLS beacons for the F/A-18C for all runways that were already equipped with regular ILS.
+	Readme located https://github.com/madmoney99/Caucasus-and-NTTR-ICLS-Mod
+	
+Added beacons Caucasus:
+
+    Anapa
+        VORTAC 59X/111.20 DUDE
+        ICLS RWY04 Ch.5
+        ICLS RWY22 Ch.2
+        ILS RWY04 108.50 DDY
+        ILS RWY22 109.50 JAK
+    Batumi
+        ICLS RWY13 CH.16
+    Belsan
+        VORTAC 51X/111.40 BSN
+        ICLS RWY10 CH.1
+    Gelendzhik
+        TACAN 90X GNZ
+    Kobuleti
+        ICLS RWY07 CH.7
+    Kultasi
+        ICLS RWY08 CH.8
+    Krasnodar-Center
+        TACAN 94X KRS
+        ICLS RWY09 CH.17
+    Krymsk
+        VORTAC 41X/110.40 KRY
+        ICLS RWY04 CH.4
+        ICLS RWY22 CH.20
+    Maykop
+        VORTAC 53X/111.60 MAY
+        ICLS RWY04 CH.14
+    Mineralnye Vody
+        VORTAC 118X/117.10 MNV
+        ICLS RWY12 CH.12
+        ICLS RWY30 CH.3
+    Mozdok
+        VORTAC 126X/117.90 MOZ
+        ICLS RWY08 CH.18
+        ICLS RWY26 CH.19
+    Nalchik
+        VORTAC 33X/109.60 NAL
+        ICLS RWY24 CH.2
+    Sochi-Adler
+        VORTAC 45X/110.80 SCH
+        ICLS RWY06 CH.6
+    Senaki
+        ICLS RWY09 CH.9
+    Tblisi-Lochini
+        ICLS RWY13R CH.13
+        ICLS RWY31L CH.6
+    Vaziani
+        ICLS RWY13 CH.15
+        ICLS RWY31 CH.4
+]]--
+
 beaconsTableFormat = 2
 beacons = {
 	{
