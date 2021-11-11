@@ -11,7 +11,7 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 - This is an optional file if you want ILS/VORTAC information displayed in mission the under Airdrome Data.
 ### Nevada
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\Nevada
-### Nevada
+### Mariana Islands
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\MarianaIslands
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
