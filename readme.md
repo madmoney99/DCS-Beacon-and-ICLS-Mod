@@ -1,4 +1,4 @@
-# DCS: Caucasus and NTTR beacons mod
+# DCS: Beacons mod for Caucasus, Nevada and Mariana Islands
 This will add additional VORTAC/TACAN beacons to DCS as well as add ICLS beacons to airports with existing ILS signals so that US Navy aircraft (F-18 & F-14) can do low weather approaches to those airports.
 
 
