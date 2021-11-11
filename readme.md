@@ -9,8 +9,10 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 ###### Anapa.extra2.cfg.lua goes into:
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\Caucasus\\AirfieldsCfgs
 - This is an optional file if you want ILS/VORTAC information displayed in mission the under Airdrome Data.
-### NTTR
+### Nevada
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\Nevada
+### Nevada
+- X:\Eagle Dynamics\DCS[install]\Mods\terrains\MarianaIslands
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
 
@@ -82,7 +84,14 @@ General info:
 	- ICLS RWY21L CH.1 
 - McCarran 
 	- ICLS RWY25L CH.10
-	- ICLS RWY25R CH.16 
+	- ICLS RWY25R CH.16
+
+**Added beacons Mariana Islands:**
+- Andersen AFB
+	- ICLS RWY6L CH.6
+	- ICLS RWY6R CH.12
+	- ICLS RWY24L CH.8
+	- ICLS RWY24R CH.4
 
 Regards,
 TonyG
