@@ -87,6 +87,7 @@ General info:
 - McCarran 
 	- ICLS RWY25L CH.10
 	- ICLS RWY25R CH.16
+	
 **Added beacons Persian Gulf:**
 - Al Minhad
 	- ICLS RWY09 CH.9
