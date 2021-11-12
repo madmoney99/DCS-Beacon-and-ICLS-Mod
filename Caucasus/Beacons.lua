@@ -124,7 +124,7 @@ beacons = {
 		channel = 59;
 		position = { -5500.801758, 42.35243, 242748.500000 };
 		direction = 41.500201;
-		positionGeo = { latitude = 45.00, longitude = 34.396435 };
+		positionGeo = { latitude = 45.00, longitude = 37.396435 };
 		sceneObjects = {'t:298090496'};
 	};
 	{

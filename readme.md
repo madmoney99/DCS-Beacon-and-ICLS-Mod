@@ -92,6 +92,11 @@ General info:
 	- ICLS RWY6R CH.12
 	- ICLS RWY24L CH.8
 	- ICLS RWY24R CH.4
+- Rota International TACAN 38X ROT
+	- ILS RWY09 109.15 OTA
+	- ICLS RWY09 CH.9
+	- ILS RWY27 110.35 IDG
+	- ICLS RWY27 CH.7
 
 Regards,
 TonyG

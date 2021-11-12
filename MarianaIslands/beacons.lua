@@ -307,6 +307,114 @@ beacons = {
 	};
 	{
 		display_name = _('');
+		beaconId = 'airfield1_1';
+		type = BEACON_TYPE_TACAN;
+		callsign = 'ROT';
+		frequency = 999000000.000000;
+		channel = 38;
+		position = { 75948, 173, 48933 };
+		direction = 0.00;
+		positionGeo = { latitude = 14.174967, longitude = 145.244261 };
+		sceneObjects = {'t:52468360'};
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_2';
+		type = BEACON_TYPE_ILS_GLIDESLOPE;
+		callsign = 'IOTA';  --09
+		frequency = 109150000.000000;
+		position = { 75920, 173, 47680 };
+		direction = -87.7896;
+		positionGeo = { latitude = 14.174625, longitude = 145.232664 };
+		sceneObjects = {'t:63243099'};
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_3';
+		type = BEACON_TYPE_ILS_LOCALIZER;
+		callsign = 'IOTA';  --09
+		frequency = 109150000.000000;
+		position = { 75851, 173, 49476 };
+		direction = -87.7896;
+		positionGeo = { latitude = 14.174122, longitude = 145.249306 };
+		sceneObjects = {'t:209158144'};
+		chartOffsetX = 1951.000000;
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_4';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'IOTA';  --09
+		frequency = 15655000000.000000;
+		channel = 9;
+		position = { 75851, 173, 49476 };
+		direction = -87.7896;
+		positionGeo = { latitude = 14.174122, longitude = 145.249306 };
+		sceneObjects = {'t:209158144'};
+		chartOffsetX = 1951.000000;
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_5';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'IOTA';  --09
+		frequency = 15655000000.000000;
+		channel = 9;
+		position = { 75920, 173, 47680 };
+		direction = -87.7896;
+		positionGeo = { latitude = 14.174625, longitude = 145.232664 };
+		sceneObjects = {'t:63243099'};
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_6';
+		type = BEACON_TYPE_ILS_GLIDESLOPE;
+		callsign = 'IDGE';  --27
+		frequency = 110350000.000000;
+		position = { 75849, 173, 49507 };
+		direction = 92.2104;
+		positionGeo = { latitude = 14.174114, longitude = 145.249589 };
+		sceneObjects = {'t:63243099'};
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_7';
+		type = BEACON_TYPE_ILS_LOCALIZER;
+		callsign = 'IDGE';  --27
+		frequency = 110350000.000000;
+		position = { 75937, 173, 47275 };
+		direction = 92.2104;
+		positionGeo = { latitude = 14.174753, longitude = 145.228911 };
+		sceneObjects = {'t:209158144'};
+		chartOffsetX = 2385.000000;
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_8';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'IDGE';  --27
+		frequency = 15595000000.000000;
+		channel = 7;
+		position = { 75937, 173, 47275 };
+		direction = 92.2104;
+		positionGeo = { latitude = 14.174753, longitude = 145.228911 };
+		sceneObjects = {'t:209158144'};
+		chartOffsetX = 1951.000000;
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield1_9';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'IDGE';  --27
+		frequency = 15595000000.000000;
+		channel = 7;
+		position = { 75849, 173, 49507 };
+		direction = 92.2104;
+		positionGeo = { latitude = 14.174114, longitude = 145.249589 };
+		sceneObjects = {'t:63243099'};
+	};
+	{
+		display_name = _('');
 		beaconId = 'airfield2_0';
 		type = BEACON_TYPE_ILS_LOCALIZER;
 		callsign = 'IGSN';
