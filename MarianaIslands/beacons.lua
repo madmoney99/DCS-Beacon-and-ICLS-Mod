@@ -437,4 +437,42 @@ beacons = {
 		sceneObjects = {'t:209223680'};
 		chartOffsetX = 3013.000000;
 	};
+	{
+		display_name = _('');
+		beaconId = 'airfield2_2';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'IGSN';
+		frequency = 15595000000.000000;
+		channel = 17;
+		position = { 180642.546875, 64.185939, 103385.359375 };
+		direction = -111.803190;
+		positionGeo = { latitude = 15.124498, longitude = 145.743327 };
+		sceneObjects = {'t:209223681'};
+		chartOffsetX = 3013.000000;
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield2_3';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'PGSN';
+		frequency = 15595000000.000000;
+		channel = 17;
+		position = { 179748.296875, 65.000065, 100905.421875 };
+		direction = -113.840375;
+		positionGeo = { latitude = 15.116286, longitude = 145.720300 };
+		sceneObjects = {'t:209223680'};
+		chartOffsetX = 3013.000000;
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield2_4';
+		type = BEACON_TYPE_VORTAC;
+		callsign = 'SAI';
+		frequency = 110400000.00;
+		channel = 41;
+		position = { 179652, 63, 101277 };
+		direction = 0.00;
+		positionGeo = { latitude = 15.115436, longitude = 145.723761 };
+		sceneObjects = {'t:52468360'};
+	};
 }

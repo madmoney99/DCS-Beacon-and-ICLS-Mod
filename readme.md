@@ -97,6 +97,8 @@ General info:
 	- ICLS RWY09 CH.9
 	- ILS RWY27 110.35 IDG
 	- ICLS RWY27 CH.7
+ - Saipan International VORTAC 41X/110.40
+	- ICLS RWY07 CH.17
 
 Regards,
 TonyG
