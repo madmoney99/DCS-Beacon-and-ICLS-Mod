@@ -1,9 +1,3 @@
---[[
-Modified by TonyG to work with v2 of the Caucasus Beacon Mod.  Back up your original before overwriting.  This file adds the ILS and VORTAC info to the F10 Airdrome Information in game.
-Last checked with DCS v2.7.1.6430 (May 20,2021)
-Readme located https://github.com/madmoney99/Caucasus-and-NTTR-ICLS-Mod
-]]--
-
 if Airdromes[12] ~= nil then
 	Airdromes[12]["reference_point"] = { x = -5412.409668, y = 243128.820313 }
 	Airdromes[12]["runwayName"] = {}
