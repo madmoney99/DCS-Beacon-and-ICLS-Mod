@@ -109,7 +109,8 @@ beacons = {
 		beaconId = 'airfield2_5';
 		type = BEACON_TYPE_ICLS_GLIDESLOPE;
 		callsign = 'IMP';
-		frequency = 15685000000.000000;
+		frequency = 15625000000.000000;
+		channel = 18;
 		position = { 72931.069470, 74.138075, 48172.795557 };
 		direction = 106.217857;
 		positionGeo = { latitude = -51.824339, longitude = -58.443285 };
@@ -120,7 +121,8 @@ beacons = {
 		beaconId = 'airfield2_6';
 		type = BEACON_TYPE_ICLS_LOCALIZER;
 		callsign = 'imp';
-		frequency = 15685000000.000000;
+		frequency = 15625000000.000000;
+		channel = 18;
 		position = { 73666.453125, 74.138075, 45783.363281 };
 		direction = 104.099978;
 		positionGeo = { latitude = -51.817299, longitude = -58.477728 };
@@ -131,9 +133,9 @@ beacons = {
 		display_name = _('MTPLEASANT');
 		beaconId = 'airfield2_7';
 		type = BEACON_TYPE_ILS_GLIDESLOPE;
-		callsign = 'IMP';
+		callsign = 'IPM';
 		frequency = 110900000.000000;
-		position = { 72931.069470, 74.138075, 48172.795557 };
+		position = { 73707, 74.138075, 46455 };
 		direction = 286.217857;
 		positionGeo = { latitude = -51.817364, longitude = -58.469672 };
 		sceneObjects = {'t:67568611'};
@@ -142,9 +144,9 @@ beacons = {
 		display_name = _('MTPLEASANT');
 		beaconId = 'airfield2_8';
 		type = BEACON_TYPE_ILS_LOCALIZER;
-		callsign = 'imp';
+		callsign = 'ipm';
 		frequency = 110900000.000000;
-		position = { 73666.453125, 74.138075, 45783.363281 };
+		position = { 72944, 74.138075, 48661 };
 		direction = 284.099978;
 		positionGeo = { latitude = -51.724311, longitude = -58.436194 };
 		sceneObjects = {'t:45188344'};
@@ -156,7 +158,8 @@ beacons = {
 		type = BEACON_TYPE_ICLS_GLIDESLOPE;
 		callsign = 'IMP';
 		frequency = 15685000000.000000;
-		position = { 72931.069470, 74.138075, 48172.795557 };
+		channel = 10;
+		position = { 73707, 74.138075, 46455 };
 		direction = 286.217857;
 		positionGeo = { latitude = -51.817364, longitude = -58.469672 };
 		sceneObjects = {'t:67568611'};
@@ -165,9 +168,10 @@ beacons = {
 		display_name = _('MTPLEASANT');
 		beaconId = 'airfield2_10';
 		type = BEACON_TYPE_ICLS_LOCALIZER;
-		callsign = 'imp';
+		callsign = 'ipm';
 		frequency = 15685000000.000000;
-		position = { 73666.453125, 74.138075, 45783.363281 };
+		channel = 10;
+		position = { 72944, 74.138075, 48661  };
 		direction = 284.099978;
 		positionGeo = { latitude = -51.724311, longitude = -58.436194 };
 		sceneObjects = {'t:45188344'};
