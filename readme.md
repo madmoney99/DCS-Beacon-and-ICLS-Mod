@@ -1,4 +1,4 @@
-# DCS: Beacons mod for Caucasus, Nevada, Persian Gulf and Mariana Islands
+# DCS: Beacons mod for Caucasus, Nevada, Persian Gulf, Falklands and Mariana Islands
 This will add additional VORTAC/TACAN beacons to DCS as well as add ICLS beacons to airports with existing ILS signals so that US Navy aircraft (F-18 & F-14) can do low weather approaches to those airports.
 
 
@@ -15,6 +15,8 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\PersianGulf
 ### Mariana Islands
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\MarianaIslands
+### Mariana Islands (more to come)
+- X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Falklands
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
 
@@ -113,5 +115,11 @@ General info:
  - Saipan International VORTAC 41X/110.40
 	- ICLS RWY07 CH.17
 
+**Added beacons Falklands:**
+- Mount Pleasant
+	- ICLS RWY28 CH.18
+	- ICLS RWY10 CH.10
+	- ILS  RWY10 110.90
+	
 Regards,
 TonyG
