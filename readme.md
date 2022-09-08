@@ -120,6 +120,17 @@ General info:
 	- ICLS RWY28 CH.18
 	- ICLS RWY10 CH.10
 	- ILS  RWY10 110.90
+- Puerto Arenas
+	- ICLS RWY25 CH.15
+	- VORTAC 88X/114.10
+- El Calafate
+	- ICLS RWY25 CH.17
+- Rio Gallegos
+	- ICLS RWY25 CH.5
+- Rio Grande
+	- ICLS RWY26 CH.16
+- Ushuaia
+	- ICLS RWY25 CH.2
 	
 Regards,
 TonyG

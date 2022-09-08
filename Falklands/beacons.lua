@@ -47,6 +47,28 @@ beacons = {
 		sceneObjects = {'t:30015546'};
 	};
 	{
+		display_name = _('ELCALACAFE');
+		beaconId = 'airfield14_3';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'EC';
+		frequency = 15595000000.000000;
+		channel = 17;
+		position = { 136527.359375, 199.844301, -921495.062500 };
+		direction = 73.854863;
+		positionGeo = { latitude = -50.280529, longitude = -72.038950 };
+	};
+	{
+		display_name = _('ELCALAFATE');
+		beaconId = 'airfield14_1';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'ec';
+		frequency = 15595000000.000000;
+		channel = 17;
+		position = { 135977.375000, 203.352391, -923720.812500 };
+		direction = 72.999995;
+		positionGeo = { latitude = -50.281306, longitude = -72.070658 };
+	};
+	{
 		display_name = _('MTPLEASANT');
 		beaconId = 'airfield2_0';
 		type = BEACON_TYPE_ILS_LOCALIZER;
@@ -114,7 +136,6 @@ beacons = {
 		position = { 72931.069470, 74.138075, 48172.795557 };
 		direction = 106.217857;
 		positionGeo = { latitude = -51.824339, longitude = -58.443285 };
-		sceneObjects = {'t:67568611'};
 	};
 	{
 		display_name = _('MTPLEASANT');
@@ -126,8 +147,6 @@ beacons = {
 		position = { 73666.453125, 74.138075, 45783.363281 };
 		direction = 104.099978;
 		positionGeo = { latitude = -51.817299, longitude = -58.477728 };
-		sceneObjects = {'t:45188344'};
-		chartOffsetX = 2967.000000;
 	};
 	{
 		display_name = _('MTPLEASANT');
@@ -162,7 +181,6 @@ beacons = {
 		position = { 73707, 74.138075, 46455 };
 		direction = 286.217857;
 		positionGeo = { latitude = -51.817364, longitude = -58.469672 };
-		sceneObjects = {'t:67568611'};
 	};
 	{
 		display_name = _('MTPLEASANT');
@@ -174,8 +192,6 @@ beacons = {
 		position = { 72944, 74.138075, 48661  };
 		direction = 284.099978;
 		positionGeo = { latitude = -51.724311, longitude = -58.436194 };
-		sceneObjects = {'t:45188344'};
-		--chartOffsetX = 2967.000000;
 	};
 	{
 		display_name = _('stanleyairport');
@@ -249,9 +265,10 @@ beacons = {
 	{
 		display_name = _('NAS');
 		beaconId = 'airfield9_2';
-		type = BEACON_TYPE_VOR_DME;
+		type = BEACON_TYPE_VORTAC;
 		callsign = 'NAS';
 		frequency = 114100000.000000;
+		channel = 88;
 		position = { -147603.078125, 38.113205, -779535.187500 };
 		direction = 0.000000;
 		positionGeo = { latitude = -53.004070, longitude = -70.855336 };
@@ -267,6 +284,28 @@ beacons = {
 		direction = -162.875779;
 		positionGeo = { latitude = -53.017351, longitude = -70.868839 };
 		sceneObjects = {'t:38437119'};
+	};
+	{
+		display_name = _('ptarenas');
+		beaconId = 'airfield9_4';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'inas';
+		frequency = 15535000000.000000;
+		channel = 15;
+		position = { -146880.036713, 37.207671, -778463.993454 };
+		direction = 76.747471;
+		positionGeo = { latitude = -52.999600, longitude = -70.837778 };
+	};
+	{
+		display_name = _('');
+		beaconId = 'airfield9_5';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'INAS';
+		frequency = 15535000000.000000;
+		channel = 15;
+		position = { -147614.546875, 41.658905, -781243.437500 };
+		direction = 77.637503;
+		positionGeo = { latitude = -53.001231, longitude = -70.880082 };
 	};
 	{
 		display_name = _('GAL');
@@ -302,6 +341,28 @@ beacons = {
 		direction = 161.568576;
 		positionGeo = { latitude = -51.609196, longitude = -69.291827 };
 		sceneObjects = {'t:61998343'};
+	};
+	{
+		display_name = _('RIOGALLEGOS');
+		beaconId = 'airfield5_3';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'gl';
+		frequency = 15535000000.000000;
+		channel = 5;
+		position = { 25207.816406, 15.454749, -705419.250000 };
+		direction = 75.800005;
+		positionGeo = { latitude = -51.610309, longitude = -69.341866 };
+	};
+	{
+		display_name = _('RIOGALLEGOS');
+		beaconId = 'airfield5_4';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'gl';
+		frequency = 15535000000.000000;
+		channel = 5;
+		position = { 25920.679584, 15.454750, -701994.560734 };
+		direction = 161.568576;
+		positionGeo = { latitude = -51.609196, longitude = -69.291827 };
 	};
 	{
 		display_name = _('RIOGRANDE');
@@ -362,6 +423,28 @@ beacons = {
 		sceneObjects = {'t:36734225'};
 	};
 	{
+		display_name = _('RIOGRANDE');
+		beaconId = 'airfield6_5';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'gr';
+		frequency = 15565000000.000000;
+		channel = 16;
+		position = { -197128.037595, 18.521791, -558753.278777 };
+		direction = 80.311714;
+		positionGeo = { latitude = -53.778446, longitude = -67.738896 };
+	};
+	{
+		display_name = _('RIOGRANDE');
+		beaconId = 'airfield6_6';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'gr';
+		frequency = 15565000000.000000;
+		channel = 16;
+		position = { -197423.843750, 18.521791, -560901.375000 };
+		direction = 78.809318;
+		positionGeo = { latitude = -53.778151, longitude = -67.771597 };
+	};
+	{
 		display_name = _('San Julian');
 		beaconId = 'airfield11_0';
 		type = BEACON_TYPE_VOR_DME;
@@ -373,7 +456,7 @@ beacons = {
 		sceneObjects = {'t:31694379'};
 	};
 	{
-		display_name = _('RIOGRANDE');
+		display_name = _('Ushuaia');
 		beaconId = 'airfield7_0';
 		type = BEACON_TYPE_ILS_LOCALIZER;
 		callsign = 'us';
@@ -406,5 +489,27 @@ beacons = {
 		direction = 1.061029;
 		positionGeo = { latitude = -54.839080, longitude = -68.282349 };
 		sceneObjects = {'t:16844045'};
+	};
+	{
+		display_name = _('Ushuaia');
+		beaconId = 'airfield7_3';
+		type = BEACON_TYPE_ICLS_LOCALIZER;
+		callsign = 'us';
+		frequency = 15445000000.000000;
+		channel = 2;
+		position = { -320923.906250, 18.499269, -577591.812500 };
+		direction = 76.899460;
+		positionGeo = { latitude = -54.844195, longitude = -68.318784 };
+	};
+	{
+		display_name = _('Ushuaia');
+		beaconId = 'airfield7_4';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'us';
+		frequency = 15445000000.000000;
+		channel = 2;
+		position = { -320262.593750, 24.959931, -575219.625000 };
+		direction = 76.394382;
+		positionGeo = { latitude = -54.841782, longitude = -68.280912 };
 	};
 }
