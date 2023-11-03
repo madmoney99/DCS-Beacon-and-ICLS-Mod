@@ -17,6 +17,8 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\MarianaIslands
 ### Falklands (more to come)
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Falklands
+### Syria
+- X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Syria
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
 
