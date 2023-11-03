@@ -131,6 +131,24 @@ General info:
 	- ICLS RWY26 CH.16
 - Ushuaia
 	- ICLS RWY25 CH.2
-	
+
+**Added beacons Syria:**
+- Akrotiri
+	- ICLS RWY28 CH.8
+- Beruit
+	- ICLS RWY35 CH.6
+	- ICLS RWY16 CH.16
+	- ICLS RWY17 CH.17	
+- Damascus
+	- ICLS RWY5R CH.5
+	- ICLS RWY23L CH.13
+- Incirlik
+	- ICLS RWY05 CH.05
+	- ICLS RWY23 CH.13	
+- Hatay
+	- ICLS RWY28 CH.4
+	- VORTAC 57X
+- Ramat David
+	- ICLS RWY35 CH.9
 Regards,
 TonyG
