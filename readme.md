@@ -19,6 +19,8 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Falklands
 ### Syria
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Syria
+### Afghanistan
+- X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Afghanistan
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
 
@@ -152,6 +154,13 @@ General info:
 	- VORTAC 57X
 - Ramat David
 	- ICLS RWY35 CH.9
+	
+**Added beacons Afghanistan:**
+- Kandahar
+	- ICLS RWY05 Ch.5
+	- ICLS RWY23 Ch.3
+	- ILS RWY05 109.50 JAK
+	- ILS RWY23 108.55 OKN
 	
 Regards,
 TonyG
