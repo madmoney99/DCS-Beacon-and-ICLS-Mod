@@ -1,4 +1,4 @@
-# DCS: Beacons mod for Caucasus, Nevada, Persian Gulf, Falklands and Mariana Islands
+# DCS: Beacons mod for Caucasus, Nevada, Persian Gulf, Falklands, Germany and Mariana Islands
 This will add additional VORTAC/TACAN beacons to DCS as well as add ICLS beacons to airports with existing ILS signals so that US Navy aircraft (F-18 & F-14) can do low weather approaches to those airports.
 
 
@@ -21,6 +21,8 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Syria
 ### Afghanistan
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Afghanistan
+### Germany
+- X:\Eagle Dynamics\DCS[install]\Mods\terrains\\\GermanyColdWar
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
 
@@ -161,6 +163,26 @@ General info:
 	- ICLS RWY23 Ch.3
 	- ILS RWY05 109.50 JAK
 	- ILS RWY23 108.55 OKN
+	
+**Added beacons Germany:**
+- Bremen
+	- ICLS RWY09 Ch.1
+	- ICLS RWY21 Ch.2
+- Wunstorf
+	- ICLS RWY26 Ch.3
+- Hahn
+	- ICLS RWY03 Ch.8
+	- ICLS RWY21 Ch.9
+- Spangdahlem
+	- ICLS RWY05 Ch.10
+	- ICLS RWY23 Ch.12
+- Bitburg
+	- ICLS RWY24 Ch.14
+- Ramstein
+	- ICLS RWY09 Ch.16
+	- ICLS RWY27 Ch.17
+- Zweibrucken
+	- ICLS RWY03 Ch.18
 	
 Regards,
 TonyG
