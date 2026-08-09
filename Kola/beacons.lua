@@ -599,31 +599,32 @@ beacons = {
 		chartOffsetX = 2729.000000;
 	};
 	{
-		display_name = _('TR');
+		display_name = _('TC');
 		beaconId = 'airfield37_5';
 		type = BEACON_TYPE_ICLS_GLIDESLOPE;
-		callsign = 'TR';
+		callsign = 'TC';
 		frequency = 15415000000;
 		channel = 1;
-		position = { 188864.515625, 4.064139, -143267.078125 };
-		direction = 9.822140;
-		positionGeo = { latitude = 69.688337, longitude = 18.920056 };
-		sceneObjects = {'t:131516314'};
-	};
-	{
-		display_name = _('TC');
-		beaconId = 'airfield37_3';
-		type = BEACON_TYPE_ILS_GLIDESLOPE;
-		callsign = 'TC';
-		frequency = 110900000.000000;
 		position = { 187341.140625, 7.419933, -143508.359375 };
 		direction = -167.444000;
 		positionGeo = { latitude = 69.674612, longitude = 18.915173 };
 		sceneObjects = {'t:130973977'};
 	};
+	{
+		display_name = _('TR');
+		beaconId = 'airfield37_6';
+		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		callsign = 'TR';
+		frequency = 15625000000;
+		channel = 18;
+		position = { 188864.515625, 4.064139, -143267.078125 };
+		direction = 9.822140;
+		positionGeo = { latitude = 69.688337, longitude = 18.920056 };
+		sceneObjects = {'t:131516314'};
+	};
 {
 		display_name = _('TC');
-		beaconId = 'airfield37_6';
+		beaconId = 'airfield37_7';
 		type = BEACON_TYPE_ICLS_LOCALIZER;
 		callsign = 'tc';
 		frequency = 15625000000;
@@ -636,11 +637,10 @@ beacons = {
 	};
 	{
 		display_name = _('TC');
-		beaconId = 'airfield37_7';
-		type = BEACON_TYPE_ICLS_GLIDESLOPE;
+		beaconId = 'airfield37_3';
+		type = BEACON_TYPE_ILS_GLIDESLOPE;
 		callsign = 'TC';
-		frequency = 15625000000;
-		channel = 18;
+		frequency = 110900000.000000;
 		position = { 187341.140625, 7.419933, -143508.359375 };
 		direction = -167.444000;
 		positionGeo = { latitude = 69.674612, longitude = 18.915173 };
@@ -648,7 +648,7 @@ beacons = {
 	};
 	{
 		display_name = _('Tromso');
-		beaconId = 'airfield37_7'; 
+		beaconId = 'airfield37_8'; 
 		type = BEACON_TYPE_VORTAC;
 		callsign = 'TRO';
 		frequency = 113800000;
