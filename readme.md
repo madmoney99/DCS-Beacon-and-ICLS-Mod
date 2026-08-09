@@ -23,6 +23,8 @@ Place the modified beacons.lua file into their respective folders, overwriting t
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\Afghanistan
 ### Germany
 - X:\Eagle Dynamics\DCS[install]\Mods\terrains\\\GermanyColdWar
+### Kola
+- X:\Eagle Dynamics\DCS[install]\Mods\terrains\\\Kola
 
    * Note: these files will most likely not be IC compatible, so save a backup copy of your original Beacons.lua
 
@@ -183,6 +185,12 @@ General info:
 	- ICLS RWY27 Ch.17
 - Zweibrucken
 	- ICLS RWY03 Ch.18
+	
+**Added beacons Kola:**
+- Tromsø
+	- ICLS RWY18 Ch.18
+	- ICLS RWY36 Ch.1
+	- VORTAC 85X/113.80
 	
 Regards,
 
